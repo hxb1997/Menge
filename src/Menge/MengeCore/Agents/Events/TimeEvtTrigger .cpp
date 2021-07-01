@@ -217,7 +217,7 @@ namespace Menge {
                     Agents::BaseAgent * agt = sim->getAgent( a );
                     State * pState = fsm->getCurrentState(agt);
                     pState->leave(agt);
-                    pState->enter(agt);
+                    //pState->enter(agt);
                 }
 			}
 			return true;
