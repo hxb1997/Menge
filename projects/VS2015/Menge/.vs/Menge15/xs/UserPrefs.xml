@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../src/Menge/MengeCore/Agents/PrefVelocity.cpp">
+    <Files>
+      <File FileName="../../../src/Menge/MengeCore/Agents/BaseAgent.cpp" Line="59" Column="78" />
+      <File FileName="../../../src/Plugins/AgtHelbing/HelbingAgent.cpp" Line="1" Column="1" />
+      <File FileName="../../../src/Menge/MengeCore/Agents/BaseAgent.h" Line="30" Column="28" />
+      <File FileName="../../../src/Menge/MengeCore/Agents/PrefVelocity.cpp" Line="108" Column="4" />
+      <File FileName="../../../src/Menge/MengeCore/Agents/PrefVelocity.h" Line="57" Column="6" />
+      <File FileName="../../../src/Menge/MengeCore/Math/Vector2.h" Line="29" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Menge15" expanded="True">
+            <Node name="MengeCore" expanded="True">
+              <Node name="AttributeSet.cpp" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x64" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
